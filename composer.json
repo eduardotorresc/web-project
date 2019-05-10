@@ -1,0 +1,18 @@
+{
+    "name": "kevin/twig-pruebas",
+    "authors": [
+        {
+            "name": "kevintorresc",
+            "email": "kevintc47@hotmail.com"
+        },
+        {
+            "name": "kevintorresc",
+            "email": "kevintc4e@gmail.com"
+        }
+    ],
+    "description": "",
+    "require": {
+        "php": "^7.0",
+        "twig/twig": "^2.0"
+    }
+}
